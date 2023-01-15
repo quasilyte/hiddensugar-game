@@ -33,3 +33,10 @@ $ git clone github.com/quasilyte/hiddensugar-game
 $ cd hiddensugar-game
 $ go run .
 ```
+
+You may need to install [Ebitengine dependencies](https://ebitengine.org/en/documents/install.html#Installing_dependencies):
+
+```bash
+# For Debian/Ubuntu
+$ sudo apt install libc6-dev libglu1-mesa-dev libgl1-mesa-dev libxcursor-dev libxi-dev libxinerama-dev libxrandr-dev libxxf86vm-dev libasound2-dev pkg-config
+```

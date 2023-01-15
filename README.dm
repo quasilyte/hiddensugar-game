@@ -4,6 +4,8 @@ It's written in Go and based on [ebitengine](github.com/hajimehoshi/ebiten/).
 
 ## Game Overview
 
+![screenshot](_docs/screenshot.png)
+
 In this game you help a tired gopher to find a sugar for their coffee.
 
 Unfortunately, it's really dark. You can barely see anything.

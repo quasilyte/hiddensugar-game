@@ -1,6 +1,6 @@
 A simple game that was created during a live coding session from scratch.
 
-It's written in Go and based on [ebitengine](github.com/hajimehoshi/ebiten/).
+It's written in Go and based on [ebitengine](https://github.com/hajimehoshi/ebiten/).
 
 ## Game Overview
 
